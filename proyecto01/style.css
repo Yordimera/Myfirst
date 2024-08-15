@@ -10,3 +10,10 @@ body{
     border: black solid 1px;
     border-radius: 5px;
 }
+
+footer{
+    background-color:rgb(121, 204, 204);
+    text-align: center;
+    font-size: 18px;
+    padding: 15px;
+}
